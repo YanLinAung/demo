@@ -1,0 +1,17 @@
+{
+  "name": "node-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yan Lin Aung",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "jsonwebtoken": "^7.2.1",
+    "knex": "^0.12.6",
+    "pg": "^6.1.0"
+  }
+}
